@@ -1,0 +1,8 @@
+ns1.dcsa.mil
+ns2.dcsa.mil
+stleo.dcsa.mil
+stharbor.dcsa.mil
+alt.dcsa.mil
+keywest.dcsa.mil
+www.dcsa.mil
+stjamescity.dcsa.mil
